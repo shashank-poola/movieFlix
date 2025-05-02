@@ -28,7 +28,7 @@ Explore trending movies, get inspired by what people are searching, and enjoy a 
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshots -
 
 <!-- Add screenshots here -->
 
