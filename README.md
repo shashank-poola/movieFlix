@@ -28,13 +28,6 @@ Explore trending movies, get inspired by what people are searching, and enjoy a 
 
 ---
 
-## 📷 Screenshots -
-
-<!-- Add screenshots here -->
-
-
----
-
 ## 📁 Folder Structure
 movieflix/
 ├── public/ ├── Images
