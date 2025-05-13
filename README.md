@@ -24,7 +24,7 @@ Explore trending movies, get inspired by what people are searching, and enjoy a 
 | ⚛️ React.js       | UI Library                           |
 | ⚡ Vite           | Frontend Build Tool (Super Fast!)    |
 | 🎨 Tailwind CSS   | Utility-First CSS Framework          |
-| 🌐 Domain         | (https://movieflix.theshashank.xyz)  |
+| 🌐 Domain         | (https://movieflix.shasha.ink)  |
 
 ---
 
