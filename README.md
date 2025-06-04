@@ -13,7 +13,7 @@ Explore trending movies, get inspired by what people are searching, and enjoy a 
 - 🎥 **Beautiful UI** – Sleek, fast and mobile-friendly with Tailwind CSS.
 - ⚡ **Lightning Fast** – Powered by Vite for instant load speeds.
 - 🧠 **Smart Search** – Quickly discover movies with a responsive search feature.
-- 📱 **Responsive Design** – Works flawlessly on mobile, tablet, and desktop.
+- 📱 **Responsive Design** – Works flawlessly on mobile, and desktop
 
 ---
 
