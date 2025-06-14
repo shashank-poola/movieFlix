@@ -3,7 +3,7 @@
 Your go-to movie discovery platform!  
 Explore trending movies, get inspired by what people are searching, and enjoy a seamless, snappy experience — all powered by **Vite + React.js + Tailwind CSS**.
 
-🌐 Live: [https://movieflix.theshashank.xyz]
+🌐 Live: [https://movieflix.theshashank.xyz)
 
 ---
 
